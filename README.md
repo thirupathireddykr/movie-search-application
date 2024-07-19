@@ -7,10 +7,10 @@
    cd movie-search-app
 
 **Install Dependencies**
-```bash
+  ```bash```
   npm install
 
 **Run the Application**
-```bash
+```bash```
   npm start
 Open your browser and navigate to http://localhost:3000 to see the application in action.
